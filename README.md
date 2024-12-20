@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leonardo0
 - 👀 I’m interested in programming, but I'm still new to this.
-- 🌱 I’m currently learning C language!
+- 🌱 I’m currently learning Kotlin language!
 - 💞️ I’m looking to collaborate on basic projects so I can learn step by step.
 - 📫 How to reach me ... send a message.
